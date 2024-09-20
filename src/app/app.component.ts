@@ -16,6 +16,7 @@ export class AppComponent {
   options = [
     {path: '/home', title: 'Home'},
     {path:'/ourmission', title: 'Our Mission'},
+    { path: '/learning/courses', title: 'Courses'},
     {path: '/about', title: 'About'}
 
   ]
